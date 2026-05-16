@@ -1,0 +1,3 @@
+([('qr_code_gen_claude',
+   '/Users/christiankeil/Desktop/SEPA QR/dist/qr_code_gen_claude',
+   'EXECUTABLE')],)
