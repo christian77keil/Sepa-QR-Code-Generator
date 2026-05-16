@@ -5,6 +5,7 @@ Ein schlankes Desktop-Tool zum Erstellen von SEPA-konformen QR-Codes für bargel
 ---
 
 ## Screenshot
+![SEPA QR Generator Screenshot](SepaQrCodeGen.png)
 
 ```
 ┌─────────────────────────────────────────┐
