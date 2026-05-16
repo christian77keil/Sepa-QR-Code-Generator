@@ -7,25 +7,6 @@ Ein schlankes Desktop-Tool zum Erstellen von SEPA-konformen QR-Codes für bargel
 ## Screenshot
 ![SEPA QR Generator Screenshot](SepaQrCodeGen.png)
 
-```
-┌─────────────────────────────────────────┐
-│  SEPA Überweisung                        │
-│ ┌─────────────────────────────────────┐ │
-│ │ Empfänger Name                       │ │
-│ │ [Max Mustermann                    ] │ │
-│ │ IBAN                                 │ │
-│ │ [DE89 3704 0044 0532 0130 00       ] │ │
-│ │ BIC (optional)   │ Betrag (EUR)      │ │
-│ │ [COBADEFFXXX   ] │ [49.99         ] │ │
-│ │ Verwendungszweck                     │ │
-│ │ [Rechnung 2024-001                 ] │ │
-│ └─────────────────────────────────────┘ │
-│  [■ QR-Code generieren] [↓ Speichern]   │
-│ ┌─────────────────────────────────────┐ │
-│ │         [QR-Code Vorschau]           │ │
-│ └─────────────────────────────────────┘ │
-└─────────────────────────────────────────┘
-```
 
 ---
 
